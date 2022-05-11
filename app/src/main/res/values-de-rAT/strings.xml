@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fuchsraude</string>
+    <string name="info">Info</string>
+    <string name="map">Karte</string>
+    <string name="contact">Kontakt</string>
+    <string name="raudeTitle">Was ist Raude?</string>
+    <string name="raudeInfo">Die Infektion wird durch kleine Milben namens Sarcoptes scabiei verursacht. Diese Milben graben sich in die Haut ein und bilden viele kleine Tunnel. Diese Tunnel füllen sie dann mit einer Vielzahl verschiedener Materialien, darunter Stücke ihrer Schalen die sie abgeworfen haben, Kot, Eier, Verdauungssekrete etc. Alle diese Materialien verursachen unglaubliche Reizungen sowie sichtbare Flecken. </string>
+    <string name="infoTxt">Wir heißen Klei und Manuel und hatten die Aufgabe in Softwareentwicklung eine App zu programmieren die einen Medizinischen Nutzen für ein Lebewesen hat.
+Im Mittelpunkt unserer App stehen die Tiere. Mit dieser App wollen wir sie vor der Infektion namens "Fuchsräude" schützen. Diese Krankheit ist extrem gefährlich für Katzen und Hund und kann innerhalb von wenigen Monaten zum Tot führen!</string>
+    <string name="titelInfo">Über Uns</string>
+    <string name="useTitle">Was sollte ich beim Kontakt mit einem erkrankten Tier tun?</string>
+    <string name="usageInfo">Speziell Hund und Katzen können sich mit Räude von einem infizierten Fuchs anstecken. Die gute Nachricht ist, dass die Räude bei Hunden leicht zu behandeln ist sofern sie frühzeitig Diagnostiziert wird ansonsten kann sie innerhalb weniger Tage zum Tod führen. Am besten sollte man sofort einen Tierarzt aufsuchen und ein Foto von dem erkrankten Tier in die App hochladen um andere Nutzer davor zu schützen.</string>
+    <string name="symptomeTitle">Welche Symptome zeigt mein Tier bei einem unbemerkten Kontakt?</string>
+    <string name="symptomeInfo">Wenn ihr Tier in Kontakt mit Fuchsräude kommt, fängt es in kurzer Zeit an sich stark am ganzen Körper zu kratzen und sein Aussehen zu verändern. Achten Sie auf gerötete Haut an Kopf oder Beinen, Haarausfall und andere Hautveränderungen wie Papeln, Pusteln oder Krusten.</string>
+    <string name="alertTitle">Warnung! Fuchsräude neben Dir!</string>
+    <string name="alertText">Es gibt einen Fall von Fuchsräude einen Kilometer von Ihnen entfernt! Achten Sie auf Ihre Haustiere und bleiben Sie sicher!</string>
+    <string name="appContact">Wenn sie weitere Fragen zu der App oder Verbesserungsvorschläge an unser Team haben wenden Sie sich bitte an:</string>
+    <string name="jagdContact">Wenn Sie ein erkranktes Tier antreffen oder sich nicht sicher sind wenden sie Sich bitte an folgende email Adresse oder Telefonnummer:</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fuchsraude</string>
+    <string name="info">Info</string>
+    <string name="map">Map</string>
+    <string name="contact">Contact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="appmail" translatable="false">Support Email:</string>
+    <string name="fuschsraudeEmail" translatable="false">klei.sallaku@edu.fh-joanneum.at\n manuel.seper@edu.fh-joanneum.at</string>
+    <string name="jvEmail" translatable="false">Jagdverband Email:</string>
+    <string name="jagverbandEmail" translatable="false">lja@jagd-stmk.at</string>
+    <string name="jagdNummer" translatable="false">0316/673637</string>
+    <string name="titelInfo" >About Us</string>
+    <string name="infoTxt">Our names are Klei and Manuel and we had the task to program an app in software development that has a medical benefit for a living being.In the center of our app are the animals. With this app we want to protect them from the infection called "fox mange". This disease is extremely dangerous for cats and dogs and can lead to death within a few months!</string>
+    <string name="raudeTitle">What is Mange?</string>
+    <string name="raudeInfo" >The infection is caused by small mites called Sarcoptes scabiei. These mites burrow into the skin and form many small tunnels. They then fill these tunnels with a variety of different materials, including pieces of their shells they have shed, feces, eggs, digestive secretions, etc. All of these materials cause incredible irritation as well as visible stains.</string>
+    <string name="useTitle">What should I do when coming into contact with a sick animal?</string>
+    <string name="usageInfo">Especially dogs and cats can get mange from an infected fox. The good news is that mange in dogs is easily treatable if diagnosed early, otherwise it can lead to death within a few days. The best thing to do is to consult a vet immediately and upload a photo of the infected animal to the app to protect other users.</string>
+    <string name="alertTitle">Warning! Mange near your location!</string>
+    <string name="alertText">There is a case of Mange at least one kilometer away from you! Be sure to check your pets and stay safe!</string>
+    <string name="jvPhone" translatable="false">Jagdverband Nummer:</string>
+    <string name="symptomeTitle">What symptoms does my animal show in case of an unnoticed contact?</string>
+    <string name="symptomeInfo">When your pet comes into contact with fox mange, it will start scratching heavily all over its body and change its appearance in a short time. Look for reddened skin on the head or legs, hair loss and other skin changes such as papules, pustules or crusts.</string>
+    <string name="appContact">If you have any further questions about the app or suggestions for improvements to our team, please contact us:</string>
+    <string name="jagdContact">If you find a sick animal or you are not sure, please contact us at the following email address or phone number:</string>
+</resources>

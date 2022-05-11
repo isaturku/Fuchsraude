@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/infoFragment"
+        android:title="@string/info"
+        android:icon="@drawable/ic_twotone_info_24"/>
+    <item
+        android:id="@+id/mapsFragment"
+        android:title="@string/map"
+        android:icon="@drawable/ic_twotone_map_24"/>
+    <item
+        android:id="@+id/contactFragment"
+        android:title="@string/contact"
+        android:icon="@drawable/ic_twotone_contact_page_24"/>
+    <item
+        android:id="@+id/anchor"
+        android:title=""/>
+</menu>

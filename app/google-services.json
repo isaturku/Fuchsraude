@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1001138335964",
+    "project_id": "fuchsraude",
+    "storage_bucket": "fuchsraude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001138335964:android:78e346f2afb092e16f8419",
+        "android_client_info": {
+          "package_name": "com.example.fuchsraude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001138335964-4pbdk2ainnov3pjhk5i45i5vtms473cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiTq_aqnPNTdcRtg7ZiyA9MnjjvIly1Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001138335964-4pbdk2ainnov3pjhk5i45i5vtms473cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001138335964:android:661395c4e0a7483a6f8419",
+        "android_client_info": {
+          "package_name": "com.example.fuchsraudejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001138335964-4pbdk2ainnov3pjhk5i45i5vtms473cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiTq_aqnPNTdcRtg7ZiyA9MnjjvIly1Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001138335964-4pbdk2ainnov3pjhk5i45i5vtms473cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
